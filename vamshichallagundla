@@ -1,1 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Vamshi Challagundla Portfolio</title>
+</head>
+<body>
+  <div style="text-align:center; padding: 40px;">
+    <img src="vamshi.jpg" alt="Vamshi Challagundla" width="150" height="150" style="border-radius: 50%; margin-bottom: 20px;" />
+    <h1>Welcome to Vamshi Challagundla's Portfolio</h1>
+    <p><strong>Full-Stack Developer</strong> | AI & Cloud Enthusiast</p>
+    <p>M.S. Computer Science, Roosevelt University (May 2025)</p>
+    <p>Email: challagundlavamshi416@gmail.com</p>
+    <p>Location: Chicago, IL</p>
+    <p><a href="https://www.linkedin.com/in/vamshichallagundla/" target="_blank">LinkedIn Profile</a></p>
+  </div>
+</body>
+</html>
+<p><a href="vamshichallagundla.htm">View Full Bio</a></p>
+
 
